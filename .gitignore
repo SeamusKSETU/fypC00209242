@@ -54,4 +54,8 @@ app.*.map.json
 /windows/
 /linux/
 /macos/
-/FlaskAPI/venv/
+**/FlaskAPI/venv/
+**/venv/
+FlaskAPI/venv
+
+
